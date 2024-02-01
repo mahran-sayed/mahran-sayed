@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm an Aerospace Engineering Student 🚀✈️ and a hobbyist programmer </></h1>
 <h3 align="center">A Senior Aerospace Engineering Student @ Faculty of Engineering, Cairo University, Egypt:) 𓂀𓋹𓆣𓆃</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahran-sayed&label=Profile%20views&color=0e75b6&style=flat" alt="mahran-sayed" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahran-sayed&label=Profile%20views&color=0e75b6&style=flat" alt="mahran-sayed" /> </p>
 
 
 <h3 align="center">Connect with me:</h3>
